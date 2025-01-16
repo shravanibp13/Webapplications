@@ -1,0 +1,16 @@
+/* Custom styles */
+.hero-section {
+    background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+    color: #333;
+}
+
+#products .card {
+    margin-bottom: 20px;
+}
+.rating .fa-star {
+    color: #ccc;
+}
+
+.rating .fa-star.checked {
+    color: #FFD700; /* Gold color for checked stars */
+}
